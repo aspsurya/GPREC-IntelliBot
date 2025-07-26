@@ -20,7 +20,7 @@ Transitioning into college life can be challenging for new students, who often s
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/gprec-intellibot.git](https://github.com/yourusername/gprec-intellibot.git)
+    git clone https://github.com/aspsurya/gprec-intellibot.git
     cd gprec-intellibot
     ```
 2.  **Create a virtual environment:**
